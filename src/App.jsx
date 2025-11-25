@@ -9,7 +9,7 @@ import {
   TextFile,
 } from "#windows";
 import gsap from "gsap";
-import { Draggable } from "gsap/draggable";
+import Draggable from "gsap/Draggable";
 gsap.registerPlugin(Draggable);
 
 export default function App() {
