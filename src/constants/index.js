@@ -424,10 +424,11 @@ const ABOUT_LOCATION = {
       subtitle: "Meet the Developer Behind the Code",
       image: "/images/talha.png",
       description: [
-        "Hey! I’m Adrian 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
+        "Hey! I’m Talha 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
         "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
         "I’m big on clean UI, good UX, and writing code that doesn’t need a search party to debug.",
         "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
+        "At the end of 2021, I decided to go all-in on my vision of building tech products that matter. As a self-taught full stack developer with 3+ years of experience, I’ve specialized in backend development using Python, Django, and DRF, while building clean frontends with React, Next.js, and Tailwind CSS. What started as curiosity turned into a drive to build SaaS products and automation tools that empower creators and businesses. I’m now focused on turning that passion into scalable one-person startups — combining my technical expertise with entrepreneurial thinking to build the future of web technology.",
       ],
     },
   ],
